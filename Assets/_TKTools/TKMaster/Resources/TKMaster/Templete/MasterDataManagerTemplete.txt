@@ -1,0 +1,33 @@
+﻿using UnityEngine;
+using System.Collections;
+using System;
+using System.Collections.Generic;
+using CielaSpike;
+using System.Security.Policy;
+using TKF;
+using TKMaster;
+
+namespace #NAMESPACE#
+{
+public class TKMasterDataManager : TKDirectMasterDataManagerBase
+{
+	/// <summary>
+	/// Load this instance.
+	/// </summary>
+	public override IEnumerator Load_ (Action<bool> isSucceed)
+	{
+		bool isSucceedDetection = false;
+		#MASTER_DATA_LOAD#
+		isSucceed.SafeInvoke (true);
+		yield break;
+	}
+
+	/// <summary>
+	/// Gets the master version.
+	/// </summary>
+	protected override string GetMasterVersion ()
+	{
+		return "0.0.1";	
+	}
+}
+}
