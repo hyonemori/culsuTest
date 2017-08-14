@@ -1,0 +1,472 @@
+ManifestFileVersion: 0
+CRC: 4205481589
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 001f197be8be47fe51a60c6657084bfe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f7e88ed0cc6335a0432b03b124368ef3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4022f1f0afcc042458e3bb5bf1854f96, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7b0756534e4ea4ae18e7da07f29fbb44, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f5cf3832b4ea4cddb912cd0f707260c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f63f43e49be4b4066b74989fd8b7b5f5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ab9816355cff84c72ac1625f7a393707, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5af0d0279431e453083a4cdd54c6d015, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4c6f3daa3fa7b4e00b2c4720e6f56a20, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64a76f0bc918a428d8cfd3a5f0247400, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de3ece9ba3935432db2c4392476ca178, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 94cfeb4f0c7b54bec8846e7f911f2fd1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c4366cffb93c44167aa3ca7b14c4542f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 120eeeffb441c4f86b3bddd011359c08, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_shoukixyou_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Weapon/shoku/hero_shoku_kouchixyuu_weapon.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_jokou_0.png
+- Assets/_TKAssetBundles/ShurikenEffect/Texture/atlas_ring_red.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_kyoui_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_roshuku.png
+- Assets/_TKAssetBundles/Mission/Sprite/trophy_stack_prestige_num.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_roshuku_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_sonsaku.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_soukou_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_chouun.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_kyoui.png
+- Assets/_TKAssetBundles/Player/Prefab/player_shoku_ryuubi.prefab
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_kougai.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_kakouen.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_maryoku.png
+- Assets/_TKAssetBundles/Player/Sprite/Field/player_go_sonken_2.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_air_orupejuru.png
+- Assets/_TKAssetBundles/Stage/Sprite/Background/bg_shinrin_b.png
+- Assets/_TKAssetBundles/Player/Sprite/Field/player_go_sonken_4.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_bachou_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_junyuu_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_kaku_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_chourixyou_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_sonken_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_ryuuzen.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_teni_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_soujin.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_sekitoba.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_shukan_1.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_yubiwa.png
+- Assets/_TKAssetBundles/Player/Sprite/Field/player_go_sonken_3.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_ryomou_1.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_houken.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_teifu_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_manchou_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_shamaka_0.png
+- Assets/_TKAssetBundles/ShurikenEffect/Material/atlas_misc_yellow.mat
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_soushixyoku_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_gien.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_choukou_0.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_seiryu.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_chouhi.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_ryouka.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_raidou.png
+- Assets/_TKAssetBundles/ShurikenEffect/Texture/tex_tap_effect.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_kankou_0.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_seishu.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_shamaka_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_shokatsuryou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_kakuwai.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_raidou_0.png
+- Assets/_TKAssetBundles/Mission/Sprite/trophy_stack_get_secret_treasure.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_guhon_1.png
+- Assets/_TKAssetBundles/Player/Prefab/player_gi_sousou.prefab
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_houtou_1.png
+- Assets/_TKAssetBundles/Player/Sprite/Field/player_go_sonken_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_souhi_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_choukou_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_shoukin.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_teihou_0.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_kienai.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_happou.png
+- Assets/_TKAssetBundles/Mission/Sprite/trophy_stack_tap_num.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_kyocho.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_shokatsukin.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_shurei_0.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_air_teoshan.png
+- Assets/_TKAssetBundles/Player/Sprite/Icon/player_gi_sousou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_ukin.png
+- Assets/_TKAssetBundles/Hero/Sprite/Weapon/go/hero_go_sonshoukou_weapon.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_shurei.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_kansaku_0.png
+- Assets/_TKAssetBundles/Player/Prefab/player_sample.prefab
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_iseki.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_shuutai_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_shuchi_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_kantaku_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_teifu.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_houtoku.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_sonshoukou_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_sanjuu.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_hanshou_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_teihou_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_soushixyou_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_shuuyu_1.png
+- Assets/_TKAssetBundles/Player/Sprite/Icon/player_shoku_ryuubi.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_nanka.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_iseki_0.png
+- Assets/_TKAssetBundles/Audio/SE/se_daichinoikari.mp3
+- Assets/_TKAssetBundles/Audio/SE/se_win.mp3
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_sonsaku_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_baryou_1.png
+- Assets/_TKAssetBundles/Player/Prefab/player_go_sonken.prefab
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_soukou_1.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_air_apurowan.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_ground_ishutorusu.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_kougetsuei.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_dansui.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_shibai.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_ugou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_sonshoukou_1.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_enjitsu.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_houtoku_0.png
+- Assets/_TKAssetBundles/Mission/Sprite/trophy_max_clear_stage_num.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_kanu_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_choushixyou_0.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_gyokui.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_shoukixyou_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_jokou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_housei_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_gengan.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_kakouha.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_shokatsuryou_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_bachou_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_kyocho_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_teiiku_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_daikyou.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_ground_tehunuutoru.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_shuutai_0.png
+- Assets/_TKAssetBundles/ShurikenEffect/Texture/tex_effect_smoke.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_teni.png
+- Assets/_TKAssetBundles/Stage/Sprite/Background/bg_kouya_b.png
+- Assets/_TKAssetBundles/Hero/Sprite/Weapon/go/hero_go_sohi_weapon.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_kyocho_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_chouun_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_choushixyou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_sonshoukou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_soujin_0.png
+- Assets/_TKAssetBundles/Player/Sprite/Skill/player_skill_kaminari.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_josei.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_hakuryu.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_kansaku_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_kantou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_kannei_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_raidou_1.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_ground_finnia.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_air_valvozo.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_air_zamarau.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_ryuuzen_1.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_ground_ahivan.png
+- Assets/_TKAssetBundles/ShurikenEffect/Texture/fire_pixel_yellow.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_taishiji_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_teiiku_1.png
+- Assets/_TKAssetBundles/ShurikenEffect/Texture/atlas_big_modular.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_ryuubi.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_soukixyuu.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_bunpei.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_toushixyou_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_guhon_0.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_air_forutosaru.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_houtou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_shuusou_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_sonken.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_choukou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_shuchi.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_kakouha_0.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_ground_imuvin.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_soukou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_souhi.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_chouhou_1.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_housu.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_kaku_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_chourixyou_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_ukin_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_baryou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_hanshou_1.png
+- Assets/_TKAssetBundles/Player/Sprite/Skill/player_skill_daigourei.png
+- Assets/_TKAssetBundles/Stage/Sprite/Background/bg_kouya_a.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_teni_1.png
+- Assets/_TKAssetBundles/ShurikenEffect/Prefab/effect_smoke_explosion.prefab
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_housei_0.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_ground_aluaguni.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_kougetsuei_1.png
+- Assets/_TKAssetBundles/Mission/Sprite/trophy_stack_play_time.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_soushixyou.png
+- Assets/_TKAssetBundles/Player/Sprite/Field/player_gi_sousou_3.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_kakuka_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_somo.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_bachou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_shurei_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Weapon/go/hero_go_teihou_weapon.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_ryuuhou.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_ground_asukugiru.png
+- Assets/_TKAssetBundles/Player/Sprite/Field/player_shoku_ryubi_4.png
+- Assets/_TKAssetBundles/Audio/SE/se_kaminari.mp3
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_ground_hyuraputo.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_shuuyu_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_kakouton.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_josei_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_kantou_1.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_konjiki.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_air_mananarange.png
+- Assets/_TKAssetBundles/Stage/Sprite/Background/bg_kawagishi_b.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_junyuu.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_ryuuhou_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_batai.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_housei.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_soushin_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_teifu_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_kakuwai_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_gien_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_chouhou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_ouhei.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_kakouen_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_shuusou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_hanshou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Weapon/go/hero_go_shoukin_weapon.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_teihou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_baryou_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_chouhou_0.png
+- Assets/_TKAssetBundles/Audio/SE/se_kakusei.mp3
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_kakouton_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_chouun_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_shibai_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_jokou_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_kakouton_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_soushixyoku.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_guhon.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_choukou_1.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_koutei.png
+- Assets/_TKAssetBundles/Hero/Sprite/Weapon/gi/hero_gi_kakouen_weapon.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_ryomou_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_bunpei_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_bashoku_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_soushixyou_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_shokatsuryou_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_gien_0.png
+- Assets/_TKAssetBundles/Player/Sprite/Skill/player_skill_yumitai.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_ryoutou_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_shamaka.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_kougetsuei_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_ryoutou_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_iseki_1.png
+- Assets/_TKAssetBundles/Stage/Sprite/Background/bg_iseki_a.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_gengan_1.png
+- Assets/_TKAssetBundles/Player/Prefab/player_main.prefab
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_sohi_1.png
+- Assets/_TKAssetBundles/Player/Sprite/Field/player_gi_sousou_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_soujin_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_soushixyoku_1.png
+- Assets/_TKAssetBundles/Player/Sprite/Icon/player_go_sonken.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_ketsu.png
+- Assets/_TKAssetBundles/ShurikenEffect/Material/material_effect_tap.mat
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_air_vesushunu.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_kaku.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_shokatsukin_1.png
+- Assets/_TKAssetBundles/Stage/Sprite/Background/bg_iseki_c.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_jishu.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_bashoku_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Weapon/gi/hero_gi_soushin_weapon.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_gakushin.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_kantou_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_shuusou_1.png
+- Assets/_TKAssetBundles/Player/Sprite/Skill/player_skill_takarabako.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_rikuson_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_ryouka_1.png
+- Assets/_TKAssetBundles/Mission/Sprite/trophy_stack_kill_monster_num.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_kakuka.png
+- Assets/_TKAssetBundles/ShurikenEffect/Prefab/effect_daichinoikari.prefab
+- Assets/_TKAssetBundles/Audio/SE/se_tap.mp3
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_chourixyou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_ryouka_0.png
+- Assets/_TKAssetBundles/Mission/Sprite/trophy_stack_kill_boss_num.png
+- Assets/_TKAssetBundles/Player/Sprite/Field/player_shoku_ryubi_2.png
+- Assets/_TKAssetBundles/Player/Sprite/Skill/player_skill_kakusei.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_manchou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_rikuson.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_teiiku.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_kyoui_1.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_air_shiuteusu.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_kanpei_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_houtou_0.png
+- Assets/_TKAssetBundles/Mission/Sprite/trophy_max_collect_hero.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_chouhi_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_kouchixyuu_1.png
+- Assets/_TKAssetBundles/Stage/Sprite/Background/bg_jouheki_a.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_riten.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_chouhi_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_kanpei_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_kakouen_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_shoukixyou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_toushixyou_1.png
+- Assets/_TKAssetBundles/Stage/Sprite/Background/bg_kawagishi_c.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_kanpei.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_houtoku_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Weapon/gi/hero_gi_soukixyuu_weapon.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_sohi.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_gakushin_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_kougai_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_juniku_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_shuchi_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_soukixyuu_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_ryoutou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_juniku_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_riten_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_ryuuzen_0.png
+- Assets/_TKAssetBundles/Stage/Sprite/Background/bg_kouya_c.png
+- Assets/_TKAssetBundles/ShurikenEffect/Prefab/effect_lightning.prefab
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_kantaku_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_kougai_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_ouhei_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_ryomou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_sonken_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_gakushin_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_kankou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_kouchixyuu.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_kanu.png
+- Assets/_TKAssetBundles/ShurikenEffect/Prefab/effect_fairy_locus.prefab
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_sousou.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_ground_perukeraruni.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_goran_0.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_hari.png
+- Assets/_TKAssetBundles/ShurikenEffect/Prefab/effect_cloud.prefab
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_choukou.png
+- Assets/_TKAssetBundles/ShurikenEffect/Texture/atlas_misc_yellow.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_taishiji.png
+- Assets/_TKAssetBundles/Stage/Sprite/Background/bg_shinrin_c.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_junyuu_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_goran.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_ouhei_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_shuuyu.png
+- Assets/_TKAssetBundles/ShurikenEffect/Texture/glow.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_somo_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_soukixyuu_0.png
+- Assets/_TKAssetBundles/Stage/Sprite/Background/bg_iseki_b.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_shuutai.png
+- Assets/_TKAssetBundles/Stage/Sprite/Background/bg_kawagishi_a.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_manchou_0.png
+- Assets/_TKAssetBundles/Audio/SE/se_hero_attack.mp3
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_kouchixyuu_0.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_tyousen.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_josei_1.png
+- Assets/_TKAssetBundles/Mission/Sprite/trophy_stack_get_gold.png
+- Assets/_TKAssetBundles/Player/Sprite/Field/player_gi_sousou_2.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_ukin_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_shukan.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_toushixyou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_kakuka_1.png
+- Assets/_TKAssetBundles/Stage/Sprite/Background/bg_shinrin_a.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_kanu_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_sohi_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_riten_1.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_seisui.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_shibai_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_roshuku_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_soushin_0.png
+- Assets/_TKAssetBundles/Player/Sprite/Field/player_gi_sousou_4.png
+- Assets/_TKAssetBundles/Player/Sprite/Field/player_shoku_ryubi_3.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_goran_1.png
+- Assets/_TKAssetBundles/Stage/Sprite/Background/bg_jouheki_c.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_kannei.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_gengan_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_batai_0.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_ground_wawararuga.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_sonsaku_1.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_ground_yakateniku.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_choukou_0.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_kensen.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_daikyou_0.png
+- Assets/_TKAssetBundles/ShurikenEffect/Prefab/effect_tap.prefab
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_bashoku.png
+- Assets/_TKAssetBundles/ShurikenEffect/Material/fire_pixel_yellow.mat
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_rikuson_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_kannei_1.png
+- Assets/_TKAssetBundles/Audio/SE/se_yumitai.mp3
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_kakuwai_1.png
+- Assets/_TKAssetBundles/ShurikenEffect/Material/material_smoke_explosion.mat
+- Assets/_TKAssetBundles/Audio/BGM/bgm_normal.mp3
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_juniku.png
+- Assets/_TKAssetBundles/Player/Sprite/Field/player_shoku_ryubi_1.png
+- Assets/_TKAssetBundles/ShurikenEffect/Prefab/effect_resumption_reward_gold.prefab
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_taishiji_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_shoukin_0.png
+- Assets/_TKAssetBundles/Stage/Sprite/Background/bg_jouheki_b.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_kakouha_1.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_huhai.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_bunpei_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_choushixyou_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_daikyou_1.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_batai_1.png
+- Assets/_TKAssetBundles/ShurikenEffect/Material/atlas_big_modular_ADD.mat
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/gi/hero_gi_soushin.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_shoukin_1.png
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_tenkon.png
+- Assets/_TKAssetBundles/Player/Sprite/Skill/player_skill_daichinoikari.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_somo_1.png
+- Assets/_TKAssetBundles/ShurikenEffect/Material/material_lightning_glow.mat
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_kankou_1.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_ground_souma.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_shokatsukin_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Weapon/shoku/hero_shoku_kakouha_weapon.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_ground_rudora.png
+- Assets/_TKAssetBundles/ShurikenEffect/Prefab/effect_rain.prefab
+- Assets/_TKAssetBundles/SecretTreasure/Sprite/secret_treasure_konyou.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/shoku/hero_shoku_kansaku.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_ground_konivado.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_ground_nuakus.png
+- Assets/_TKAssetBundles/Hero/Sprite/Icon/go/hero_go_kantaku.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/gi/hero_gi_souhi_0.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/shoku/hero_shoku_ryuuhou_1.png
+- Assets/_TKAssetBundles/Enemy/Sprite/enemy_air_tonanyu.png
+- Assets/_TKAssetBundles/Hero/Sprite/Animation/go/hero_go_shukan_0.png
+Dependencies: []

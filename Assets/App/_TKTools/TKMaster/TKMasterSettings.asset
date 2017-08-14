@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d9bde9b9549040d7b1973f4dd08f225, type: 3}
+  m_Name: TKMasterSettings
+  m_EditorClassIdentifier: 
+  masterInfoList:
+  - masterName: Audio
+    masterUrl: https://script.google.com/macros/s/AKfycbwWJpHmogCW4PESbFrdYPfM49yUIo2Zw_ASchL9__ugn2_MBomS/exec
+    useClassInheritance: 0
+    parentName: 
+    canDownload: 0
+  - masterName: PlayerSkill
+    masterUrl: https://script.google.com/macros/s/AKfycbwgOccTnpYCe7AjmV3bUZnq_clqhf7g85Z2gUwKkuxWj6c_0ggQ/exec
+    useClassInheritance: 0
+    parentName: 
+    canDownload: 0
+  - masterName: Enemy
+    masterUrl: https://script.google.com/macros/s/AKfycbytTm4GQsd8K35U_FHTz3tM9QcN4BxZbYPTyi5FQlbxDGspwq8/exec
+    useClassInheritance: 0
+    parentName: 
+    canDownload: 0
+  - masterName: Effect
+    masterUrl: https://script.google.com/macros/s/AKfycbwH1KMgFcTm_WGJMkqm2Uzy7mhw1OWQFg_cGkGKCuwQYbsxKVc/exec
+    useClassInheritance: 0
+    parentName: 
+    canDownload: 0
+  - masterName: GameSetting
+    masterUrl: https://script.google.com/macros/s/AKfycbxZtfs4sqvwSkdMxfPRveP0eHYELf7h2DpKRvSqUOoP_gkE2w0/exec
+    useClassInheritance: 0
+    parentName: 
+    canDownload: 0
+  - masterName: Stage
+    masterUrl: https://script.google.com/macros/s/AKfycbzFgdAlUFe1X2j5rYzCF4l7gtuyWxFKRHEqbkgxNr6I7ePpSUXK/exec
+    useClassInheritance: 0
+    parentName: 
+    canDownload: 0
+  - masterName: Trophy
+    masterUrl: https://script.google.com/macros/s/AKfycbzZf_lUe6PBjO3Bt01H1506UiwQlDkPeCeG8FSjeTxkUB1RWSQ/exec
+    useClassInheritance: 0
+    parentName: 
+    canDownload: 0
+  - masterName: Shop
+    masterUrl: https://script.google.com/macros/s/AKfycbyDVVp6bb6IfUJHgv57hgtENzB9XuzfrMupthO2UnGKUI3pIGQ/exec
+    useClassInheritance: 0
+    parentName: 
+    canDownload: 1
+  - masterName: Formula
+    masterUrl: https://script.google.com/macros/s/AKfycbzcxX-lZPBZYtf0e0i6JduK4xzPqlkwx5Ummw6GSosQiw7vvm8/exec
+    useClassInheritance: 0
+    parentName: 
+    canDownload: 0
+  - masterName: Player
+    masterUrl: https://script.google.com/macros/s/AKfycbz37jfyuQcxVRQOA3e4sqWKWg1oOHNnRvA4T_pUgOnxvftCdUQh/exec
+    useClassInheritance: 1
+    parentName: Unit
+    canDownload: 0
+  - masterName: Hero
+    masterUrl: https://script.google.com/macros/s/AKfycby9YWRiFrX9O4OIaKljQA0oJWDIlc-DuqJMB_IUr5QWF1X1niQ/exec
+    useClassInheritance: 1
+    parentName: Unit
+    canDownload: 0
+  - masterName: SecretTreasure
+    masterUrl: https://script.google.com/macros/s/AKfycbylamM26qW7r9SjS6aadct-ZbLnq9h-yGm1EpmT4zoD3SZ7YL7P/exec
+    useClassInheritance: 0
+    parentName: 
+    canDownload: 0
+  - masterName: ParameterEffect
+    masterUrl: https://script.google.com/macros/s/AKfycbz0ObjJXD-pOIABBxWpewgr1JKuiDP55K0UEFgb_ajeHgPy_qKk/exec
+    useClassInheritance: 0
+    parentName: 
+    canDownload: 0
+  - masterName: NationStage
+    masterUrl: https://script.google.com/macros/s/AKfycbxBua2yPka1_ShRxOhY_gDK9_IevT1UPEx-BY0rBMZt0jjBmzo/exec
+    useClassInheritance: 0
+    parentName: 
+    canDownload: 0
+  - masterName: Define
+    masterUrl: https://script.google.com/macros/s/AKfycbyurYB8LRLXngO4SsllofQKylY8F4Ydq8zd_zklIVk6UC9aQrSW/exec
+    useClassInheritance: 0
+    parentName: 
+    canDownload: 0
+  - masterName: StageBackground
+    masterUrl: https://script.google.com/macros/s/AKfycbxrTOfNkCwLRAP7wguDepH09iood9I8VddHZ92xRU6kf6WjUzdB/exec
+    useClassInheritance: 0
+    parentName: 
+    canDownload: 0
+  namespaceString: Culsu
+  prefix: CS
+  targetDirectory: {fileID: 102900000, guid: 54555db07b13b4890aeec0f2a339db52, type: 3}
