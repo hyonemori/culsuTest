@@ -1,0 +1,7 @@
+﻿yield return Download<#NAME#MasterData,#NAME#RawData> ("#URL#", (success) => {
+isSucceedDetection = success;
+});
+if (isSucceedDetection == false) {
+isSucceed.SafeInvoke (false);
+yield break;
+}

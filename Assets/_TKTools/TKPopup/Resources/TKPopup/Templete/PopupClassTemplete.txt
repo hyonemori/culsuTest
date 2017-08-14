@@ -1,0 +1,10 @@
+using UnityEngine;
+using System.Collections;
+
+namespace TKPopup
+{
+	public class #SCRIPT_NAME#  : #INHERITED_CLASS#
+	{
+
+	}
+}
